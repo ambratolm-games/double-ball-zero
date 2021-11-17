@@ -1,0 +1,36 @@
+﻿[Details]
+
+[General]
+Title : Double Ball Zero
+Release Date : 2018
+Version : 1.0
+Languages : English
+Platform : Android
+File Size : ~0MB
+Author : Ambratolm
+Company : Elhafid Games
+
+[Description]
+Double Ball ! Red and Green ! Bad and Good !
+Go for good green ball, avoid bad red ball !
+
+[How To Play]
+1. Tap Where you want to move.
+2. Do not get hit by the red ball.
+3. Get hit by the green ball.
+
+[Credits]
+Game : Ambratolm
+Graphics : Ambratolm
+Audio : Ambratolm
+
+[Special Thanks]
+Mother
+Father
+Brother
+Sister
+
+[Copyright]
+Game 2018 Version 1.0 
+Copyright © 2018 Elhafid Games
+Game by	Ambratolm
